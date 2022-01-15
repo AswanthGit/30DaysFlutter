@@ -1,6 +1,6 @@
 # hello_world
 
-A new Flutter project.
+Flutter is a hybrid mobile application development platform for Android, IOS and Web. This tutorials gives a hands on experience in Flutter.
 
 ## Getting Started
 
